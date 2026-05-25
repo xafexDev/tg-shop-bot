@@ -14,10 +14,10 @@ A Telegram bot for a merch store built with [aiogram 3](https://docs.aiogram.dev
     <td align="center"><b>Checkout</b></td>
   </tr>
   <tr>
-    <td><img src="img/image.png" width="200"/></td>
-    <td><img src="img/image copy.png" width="200"/></td>
-    <td><img src="img/image copy 2.png" width="200"/></td>
-    <td><img src="img/image copy 3.png" width="200"/></td>
+    <td><img src="img/image-1.png" width="200"/></td>
+    <td><img src="img/image-2.png" width="200"/></td>
+    <td><img src="img/image-3.pngg" width="200"/></td>
+    <td><img src="img/image-4.png" width="200"/></td>
   </tr>
 </table>
 
