@@ -68,8 +68,8 @@ A Telegram bot for a merch store built with [aiogram 3](https://docs.aiogram.dev
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/merch-bot.git
-cd merch-bot
+git clone https://github.com/xafexDev/tg-shop-bot.git
+cd tg-shop-bot
 ```
 
 **2. Install dependencies**
